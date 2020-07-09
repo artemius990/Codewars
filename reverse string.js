@@ -8,3 +8,5 @@ function solution(str){
   }
   
   solution('world');
+
+  ////////////////////////////////
